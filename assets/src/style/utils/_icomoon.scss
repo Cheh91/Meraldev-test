@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icons/icomoon.eot?yl59go');
+  src:  url('../../fonts/icons/icomoon.eot?yl59go#iefix') format('embedded-opentype'),
+    url('../../fonts/icons/icomoon.ttf?yl59go') format('truetype'),
+    url('../../fonts/icons/icomoon.woff?yl59go') format('woff'),
+    url('../../fonts/icons/icomoon.svg?yl59go#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e900";
+}
+.icon-search1:before {
+  content: "\e901";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-google:before {
+  content: "\ea88";
+}
+.icon-search11:before {
+  content: "\e902";
+}
+.icon-search111:before {
+  content: "\f002";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-facebook-f:before {
+  content: "\f09a";
+}
+.icon-caret-down:before {
+  content: "\f0d7";
+}
+
+    
